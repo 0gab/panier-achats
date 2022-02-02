@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Panier d'achats</p>
+      <p>Panier d'achats avec React</p>
     </div>
   );
 }
